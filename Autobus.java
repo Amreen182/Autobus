@@ -14,7 +14,7 @@ public class Autobus
     public Autobus()
     {
         setKennzeichen ("W-1234A");
-        setSitzplätze  (29);
+        setSitzplätze  (20);
         setAnhanger    (false);
     }
 
